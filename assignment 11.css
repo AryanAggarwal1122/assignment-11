@@ -1,0 +1,48 @@
+h1{
+    color: WHITE;
+    background-color: #EA7773;
+    text-align: center;
+    font-size: 50px;
+    font-family:'grenze gotisch' ,cursive;
+}
+a{
+    font-size: 30px;
+    text-decoration:none;
+}
+#ONE{
+    color: #EA7773;
+    font-size: 50px;
+}
+#two{
+    letter-spacing: 4px;
+    text-indent: 100px;
+}
+#three{
+    text-align: right;
+    color:#487EB0;
+    font-size: 50px;
+    text-decoration: overline;
+}
+#four{
+    word-spacing: 5px;
+    line-height: 15px;
+    text-align: right;
+}
+#FIVE{
+    color: #EEC213;
+    background-color: #487EB0;
+    text-align: center;
+    font-size: 50px;
+}
+#six{
+    font-size: 15px;
+    text-decoration:line-through;
+}
+#seven{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+#eight{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
